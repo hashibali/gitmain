@@ -13,7 +13,7 @@
   <div class="new">
     <?php
 
-    $n = 0;
+    $n = 10;
     $r = $n % 2;
 
     switch (true) {
